@@ -1,1 +1,1 @@
-# Botscript
+# botscript
